@@ -1,3 +1,18 @@
+
+
+Open in Autocode
+================
+
+To add an Open in Autocode button to a GitHub repository,
+simply copy and paste the following code anywhere into README.md
+
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
+
+Enjoy!
+  - Autocode Team
+
+
+
 # Discord YouTube Bot 2 (beta)
 
 This is the new Discord bot that supersedes the old v1 discord bot at https://github.com/jack3898/discord-youtube-bot.
